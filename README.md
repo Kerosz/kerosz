@@ -4,7 +4,5 @@ I’m a full-stack developer, freelancer, and writer, currently living in Oradea
 
 
 [Read more about me 📖](https://www.chirila.dev/about)
-
 [My personal website 💥](https://www.chirila.dev/)
-
 [@chirila_ on Twitter 🍺](https://twitter.com/chirila_)
